@@ -1,0 +1,21 @@
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.exe.config
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.exe
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.pdb
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.csprojResolveAssemblyReference.cache
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.frmClient.resources
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.frmServer.resources
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.Properties.Resources.resources
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.csproj.GenerateResource.Cache
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.exe
+c:\users\ramin\documents\visual studio 2012\Projects\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.pdb
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.exe.config
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.exe
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.pdb
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.exe
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Debug\PIRLatticeGUI.pdb
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.csprojResolveAssemblyReference.cache
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.frmClient.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.frmServer.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.Properties.Resources.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.csproj.GenerateResource.Cache
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Debug\PIRLatticeGUI.frmSplash.resources

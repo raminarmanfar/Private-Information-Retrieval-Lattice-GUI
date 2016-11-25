@@ -1,0 +1,11 @@
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Release\PIRLatticeGUI.exe.config
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Release\PIRLatticeGUI.exe
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\bin\Release\PIRLatticeGUI.pdb
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.frmClient.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.frmServer.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.frmSplash.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.Properties.Resources.resources
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.csproj.GenerateResource.Cache
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.exe
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.pdb
+D:\PIR\PIRLatticeGUI\PIRLatticeGUI\obj\Release\PIRLatticeGUI.csprojResolveAssemblyReference.cache
